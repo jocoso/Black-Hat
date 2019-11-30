@@ -5,8 +5,8 @@ import socket
 #        -The server expect for us to send data first
 #        -The server will send us a response in a timely fashion
 
-target_host = "www.google.com"
-target_port = 80
+target_host = "0.0.0.0"
+target_port = 9999
 
 #Create a socket object
 #AF_INET: We are going to be using standard ipv4 address or hostnames
