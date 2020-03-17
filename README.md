@@ -1,2 +1,2 @@
 # Black-Hat
-Hacking and Pentesting practice 
+Hacking and Pentesting
